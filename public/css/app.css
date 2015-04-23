@@ -1,0 +1,65 @@
+.title {
+    font-size: 40;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.pythagorean_theorem_inputs_find_c {
+    text-align: center;
+    margin: 30px;
+}
+
+.pythagorean_theorem_inputs_find_a {
+    text-align: center;
+    margin: 30px;
+}
+
+.pythagorean_theorem_inputs_find_b {
+    text-align: center;
+    margin: 30px;
+}
+
+input {
+    margin: 30px;
+}
+
+.pythagorean_theorem_calculator {
+    text-align: center;
+    background-color: lightgray;
+    boarder-radius: 20px;
+    width: 50%;
+    margin: auto;
+}
+.pythagorean_theorem_title {
+    text-align: center;
+    font-size: 20;
+    margin: 20px;
+}
+
+.prime_number_title {
+    text-align: center;
+    font-size: 20;
+    margin: 20px;
+}
+
+.prime_number_calculator {
+    text-align: center;
+    background-color: lightgray;
+    boarder-radius: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.fibonacci_calculator {
+    text-align: center;
+    background-color: lightgray;
+    boarder-radius: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.fibonacci_calculator_title {
+    text-align: center;
+    font-size: 20;
+    margin: 20px;
+}
